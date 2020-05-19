@@ -1,5 +1,5 @@
 # basic-nn-visualizer
-A visualizer that uses MNIST dataset and 2 hidden layers to predict the output. It takes a random input and shows the values of all the hidden layers before predicting the output and showing the probabilities of each output.
+A visualizer that uses MNIST dataset and 2 hidden layers to visualize all the hidden units and the output in the neural network. It takes a random input and shows the values of all the hidden layers before predicting the output and showing the probabilities of each output.
 
 MNIST dataset: http://yann.lecun.com/exdb/mnist/
 
