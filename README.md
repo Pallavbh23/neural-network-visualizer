@@ -11,7 +11,7 @@ This visualizer is based on flask and streamlit. The model was trained using ten
 
 1. Clone the repository using `git clone https://github.com/Pallavbh23/basic-nn-visualizer.git`.
 
-2. Run the flask server using `python ml_server.py`. You might need to use `python3` instead of `python` depending on your environment. The server should be live on localhost:5000
+2. Run the flask server using `python ml_server.py`. You might need to use `python3` instead of `python` depending on your environment. The server should be live on `localhost:5000`.
 
 3. Run the streamlit script using `streamlit run app.py`. 
 
