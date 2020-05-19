@@ -1,6 +1,8 @@
 # basic-nn-visualizer
 A visualizer that uses MNIST dataset and 2 hidden layers to predict the output. It takes a random input and shows the values of all the hidden layers before predicting the output and showing the probabilities of each output.
 
+MNIST dataset: http://yann.lecun.com/exdb/mnist/
+
 ## Tech Stack
 
 This visualizer is based on flask and streamlit. The model was trained using tensorflow's keras API on Jupyter Notebook.
